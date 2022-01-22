@@ -4,7 +4,7 @@ A Curated list of Topic wise Theory and Questions to Get You Started On Competit
 
 Topics
 ---
- - [Binary and Ternary Search](#binary-and-ternary-search)
+ - [Binary Search and Ternary Search](#binary-search-and-ternary-search)
  - [Dynamic Programming](#dynamic-programming)
  - [Flow](#flow)
  - [Game Theory](#game-theory)
@@ -79,12 +79,12 @@ Topics
 	- [Wikipedia](https://en.wikipedia.org/wiki/Sprague%E2%80%93Grundy_theorem) - Sprague Grundy Theorem.
 	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/algorithm-games/) - Introduction to Algorithmic Games.
 
- - Questions on 
+ - Questions on
 	- [A2oj](http://a2oj.com/Category.jsp?ID=91)
 
 ## Graphs
 ---
-*A graph consists of nodes and the interconnection between them.The problems involve finding shortest distance, connectivity and flow.*	
+*A graph consists of nodes and the interconnection between them.The problems involve finding shortest distance, connectivity and flow.*
 
  - Theory
 
@@ -126,8 +126,8 @@ Topics
  	- [Aduni](http://www.aduni.org/courses/discrete/index.php?view=cw) - Course Guide to Discrete Mathematics.
  	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/understanding-probabilities/) - Understanding Probability.
 
- - Questions on 
- 
+ - Questions on
+
  	- [A2oj](http://a2oj.com/Category.jsp?ID=86)
  	- [Codechef](https://discuss.codechef.com/tags/simple-math/) - Basic
  	- [Codechef](https://discuss.codechef.com/tags/maths/) - Advanced
@@ -200,7 +200,7 @@ Topics
 
  - Theory
 
-  - [Hackerearth](https://www.hackerearth.com/practice/notes/binary-indexed-tree-or-fenwick-tree/) 
+  - [Hackerearth](https://www.hackerearth.com/practice/notes/binary-indexed-tree-or-fenwick-tree/)
   - [Wikipedia](https://en.wikipedia.org/wiki/Fenwick_tree) - Fenwick Tree (data structure)
   - [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/)
  - Questions on
